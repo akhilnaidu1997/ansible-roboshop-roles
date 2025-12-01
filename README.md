@@ -1,8 +1,4 @@
-Awesome! Here’s a **complete, polished README** you can directly paste into your GitHub repo for your **Ansible Roles – Roboshop Automation** project 👇
-
----
-
-# 🚀 Roboshop Microservices Automation using Ansible Roles
+# Roboshop Microservices Automation using Ansible Roles
 
 This repository contains automated deployment of the **Roboshop microservices application** using **Ansible Roles**.
 It follows a modular, reusable, and scalable structure aligned with configuration management best practices.
@@ -106,23 +102,6 @@ ansible-playbook -i inventory -t catalogue site.yml
 * Automated provisioning & service orchestration
 * Improved maintainability with modular templates and variables
 
----
-
-## 🤝 Contributions
-
-Feedback and improvements are welcome!
-Feel free to fork, open an issue, or submit a PR.
-
----
-
-## 📬 Connect With Me
-
-💼 [LinkedIn](https://linkedin.com/in/akhilnaidu1997)
-🐙 [GitHub](https://github.com/akhilnaidu1997)
-
----
-
-Would you like me to:
 
 ✅ Add badges (Ansible version, license, automation level)
 📌 Include a Roboshop architecture diagram
